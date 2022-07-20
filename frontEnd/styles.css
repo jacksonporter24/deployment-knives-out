@@ -1,10 +1,7 @@
 body {
+    background-image: url("https://images8.alphacoders.com/105/thumb-1920-1052048.jpg");
+    background-position: center;
     background-color: burlywood
-}
-
-img {
-    width: 1920 px;
-    height: 1080 px;
 }
 
 h1 {
