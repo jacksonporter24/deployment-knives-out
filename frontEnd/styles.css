@@ -1,7 +1,9 @@
 body {
-    background-image: url("https://images8.alphacoders.com/105/thumb-1920-1052048.jpg");
-    object-fit: contain;
     background-color: burlywood
+}
+
+img {
+    object-fit: contain
 }
 
 h1 {
