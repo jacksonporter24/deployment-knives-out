@@ -1,10 +1,8 @@
 body {
     background-image: url("https://images8.alphacoders.com/105/thumb-1920-1052048.jpg");
-    height: 100%;
-    background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
-}
+    background-attachment: fixed;
+    background-size: 100% 100%
 
 h1 {
     text-align: center;
