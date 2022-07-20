@@ -3,9 +3,8 @@ body {
 }
 
 img {
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
+    width: 1920 px;
+    height: 1080 px;
 }
 
 h1 {
