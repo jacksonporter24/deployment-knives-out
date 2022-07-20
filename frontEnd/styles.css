@@ -1,9 +1,6 @@
-img {
-    position: fixed;
-    top: 0;
-    left: 0;
-    min-width: 100%;
-    min-height: 80%;
+body {
+    background-image: url("https://images8.alphacoders.com/105/thumb-1920-1052048.jpg");
+    background-color: burlywood;
 }
 
 h1 {
