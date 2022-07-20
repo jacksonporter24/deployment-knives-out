@@ -1,9 +1,9 @@
 body {
     background-image: url("https://images8.alphacoders.com/105/thumb-1920-1052048.jpg");
+    height: 100%;
+    background-position: center;
     background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: fixed;
-    background-color: burlywood;
+    background-size: cover;
 }
 
 h1 {
