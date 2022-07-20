@@ -1,22 +1,22 @@
-const express = require('express')
-const path = require('path')
+// const express = require('express')
+// const path = require('path')
 
-const app = express()
+// const app = express()
 
-app.get('/',function(req, res) {
-    res.sendFile(path.join(__dirname, '../index.html'))
-});
+// app.get('/',function(req, res) {
+//     res.sendFile(path.join(__dirname, '../index.html'))
+// });
 
-app.get('/js',function(req, res) {
-    res.sendFile(path.join(__dirname, '../main.js'))
-});
+// app.get('/js',function(req, res) {
+//     res.sendFile(path.join(__dirname, '../main.js'))
+// });
 
-app.get('/css',function(req, res) {
-    res.sendFile(path.join(__dirname, '../styles.css'))
-})
+// app.get('/css',function(req, res) {
+//     res.sendFile(path.join(__dirname, '../styles.css'))
+// })
 
-const port = process.env.PORT || 4005
+// const port = process.env.PORT || 4005
 
-app.listen(port, () => {
-    console.log(`Listening on port ${port}`)
-})
+// app.listen(port, () => {
+//     console.log(`Listening on port ${port}`)
+// })
